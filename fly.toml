@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for ml-api-7yq4la on 2025-03-05T13:08:20Z
+# fly.toml app configuration file generated for ml-api-gz0uvq on 2025-03-05T14:34:26Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'ml-api-7yq4la'
+app = 'ml-api-gz0uvq'
 primary_region = 'cdg'
 
 [build]
